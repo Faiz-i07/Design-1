@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(28, 26, 23);
+}
+table{
+    border-color: antiquewhite;
+    text-decoration-color: beige;
+    color: antiquewhite;
+    background-color: rgb(161, 103, 17);
+
+}
+h1{
+    color: antiquewhite;
+    font-family: sans-serif;
+    margin: 0 auto;
+    /* width: 100%;
+    text-align: center; */
+    padding: auto;
+    font-size: 300%;
+    font-weight: 200;
+}
+table{
+    width: 50%;
+    font-style: serif ;
+    font-family: sans-serif;
+}
+th{
+    height: 50px;
+}
+* {
+    margin: auto;
+    width: auto;
+    padding: auto;
+  }
